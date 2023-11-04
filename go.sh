@@ -6,10 +6,6 @@ proxy_setting_file="$HOME/.config/goproxy/proxy_setting_file"
 install_dir="$(dirname "$(realpath "$0")")"
 
 
-touch $HOME/Desktop/goproxy.desktop
-
-
-
 # 检查代理文件是否存在
 if [ -e "$proxy_setting_file" ]; then
   # 如果代理文件存在，表示这是第二次执行
