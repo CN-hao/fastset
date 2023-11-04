@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0.0
+Encoding=UTF-8
+Name=proxying
+Exec=$install_dir/go.sh
+Icon=$install_dir/icon/up.png
+Type=Application
+Terminal=false
+
