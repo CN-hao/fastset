@@ -1,4 +1,4 @@
-# fastproxy
+# fastset
 ## 效果解释
 - 这是一个通过点击desktop文件实现打开、关闭proxy的脚本，打开和关闭时会显示不同的图标效果通过 https://bbs.deepin.org/zh/post/264052 查看
 - 此脚本实现图标变化可能比较有趣，可以通过修改脚本实现其他小任务
